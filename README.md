@@ -21,7 +21,7 @@ This project is a **local, offline chatbot** that acts like a friendly AI career
 ##  Demo
 > Since this app runs entirely offline with CUDA, it's not deployed on Streamlit Cloud.  
 > Here's a short screen recording of the full experience:  
-> *(Add video/GIF link here once ready)*
+> [Video](https://www.linkedin.com/posts/mkashok_ai-llms-llama-activity-7338256337706864641-bLAL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADWbMxwBo8KzXbeny91WV269EG6u-6CR0WQ)
 
 ---
 
